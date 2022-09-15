@@ -1,2 +1,2 @@
 # Thesis-Exact-AcqFunc-Gradients-BayesOpt-GPs
-Thesis chapter version of journal paper (US publisher)
+Thesis chapter version of journal paper (redacted), US publisher.
