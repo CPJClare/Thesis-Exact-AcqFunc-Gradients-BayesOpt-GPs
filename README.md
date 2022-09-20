@@ -5,13 +5,15 @@ Each of the Jupyter notebooks herein should run "out-of-the-box" in Google Colab
 
 https://research.google.com/colaboratory/faq.html
 
+https://stackoverflow.com/questions/45622602/how-to-save-jupyter-notebooks-from-github
+
 Runtimes may vary, based upon a combination of your Colab GPU licence (i.e. Colab, Colab Pro, Colab Pro+), the amount of RAM available on your local machine and the strength of your internet connection.
 
 N.B. The notebooks will only work if the datasets from both 1. and 2. (below) are already available in the /content directory of your Google Colab app. You may have to upload 1., using the "Skin_NonSkin.txt" file shown here.
 
 ### Real-world applications - datasets ### 
 
-### 1. Skin Segmentation Data Set ### 
+### 1. Skin Segmentation Dataset ### 
 
 Abstract: The Skin Segmentation dataset is constructed over B, G, R color space. Skin and Nonskin dataset is generated using skin textures from face images of diversity of age, gender, and race people.
 
