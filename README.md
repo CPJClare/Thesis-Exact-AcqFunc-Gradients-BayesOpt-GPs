@@ -1,6 +1,8 @@
 # Thesis-Exact-AcqFunc-Gradients-BayesOpt-GPs
 Thesis chapter (UK version) of journal paper (redacted), US publisher.
 
+Includes all proposed thesis chapter experiments i.e. Python code, results and graphs.
+
 Each of the Jupyter notebooks herein should run "out-of-the-box" in Google Colab.
 
 https://research.google.com/colaboratory/faq.html
