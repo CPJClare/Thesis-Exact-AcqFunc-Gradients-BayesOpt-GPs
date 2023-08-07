@@ -11,7 +11,7 @@ https://stackoverflow.com/questions/45622602/how-to-save-jupyter-notebooks-from-
 
 Runtimes may vary, based upon a combination of your Colab GPU licence (i.e. Colab, Colab Pro, Colab Pro+), the amount of RAM available on your local machine and the strength of your internet connection.
 
-N.B. The notebooks will only work if the datasets from both 1. and 2. (below) are already available in the /content directory of your Google Colab app. You may have to upload 1., using the "Skin_NonSkin.txt" file shown here.
+N.B. The notebooks will only work if the datasets from both 1. and 2. (below) are already available in the /content directory of your Google Colab app. You may have to upload 1., using the "Skin_NonSkin.txt" file shown here (EDIT: or using "Skin_NonSkin_updateLabels.txt", if the compiler throws a data-inputting error with the other .txt file).
 
 ### Real-world applications - datasets ### 
 
